@@ -1,0 +1,15 @@
+
+class Passageiro extends agenteVoo {
+
+    private String logincorreto; 
+	private String senhacorreto; 
+    private String nome;
+    private int idade;
+    private String cpf;
+    private String cep;
+    private String rg;
+    // String nPassaporte;
+    private int telefone;
+    private int contatoDeEmergencia;
+    
+}
